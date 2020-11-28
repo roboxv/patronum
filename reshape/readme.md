@@ -35,7 +35,7 @@ result = reshape({ source, shape });
 
 ### Examples
 
-#### Creates much stores from single string
+#### Creates many stores from a single string
 
 ```ts
 import { createStore } from 'effector';
